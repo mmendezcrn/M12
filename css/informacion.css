@@ -1,0 +1,36 @@
+#informacion {
+  text-align: left;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.fotos{
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#informacion img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 50px;
+  margin-top: 15px;
+  border-radius: 15px;
+}
+
+#informacion p {
+  font-size: 1em;
+  line-height: 1.7em;
+}
+
+#informacion h1 {
+  font-size: 2em;
+  line-height: 1.5em;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+#informacion h5 {
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
